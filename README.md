@@ -1,4 +1,4 @@
-Assignment 4 for AI search course: sudoku solver. <br /> 
+Assignment 4 for AI search course: sudoku solver (CSPs). <br /> 
 <br />
 Algorithm used to solve the partially filled board is called "arc consistency 3". Heuristics used for variable selection in backtracking are "minimum remaining value" and "first available value" (MRV is usually much faster) <br />
 <br />
